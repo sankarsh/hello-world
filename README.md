@@ -1,2 +1,6 @@
 # hello-world
-Entering into next level of learning of coding
+=============
+
+Hi Humans!
+
+Sankarsh here, I like Testing, Web design and Grapics Design
